@@ -1,0 +1,1 @@
+void argon2m_hash(void* input, void* output);
